@@ -5,13 +5,13 @@ My journey in data science began with a curiosity to uncover insights hidden wit
 
 ### What I Do
 
-I specialize in applying data-driven techniques to extract actionable insights and build predictive models that can inform business decisions. My experience spans multiple domains, including:
+I specialize in applying data-driven techniques to extract actionable insights and build predictive models that can inform business decisions.\
+My experience spans multiple research domains, including:
 
-- Telecommunications: Optimizing customer tariffs and predicting churn rates.
-- Finance: Analyzing loan reliability and forecasting customer attrition in banks.
-- Real Estate: Estimating property values and identifying market trends.
-- E-commerce: Developing machine learning models for product recommendations and customer behavior analysis.
-- Oil & Gas: Determining the most profitable regions for extraction.
+- Optimizing customer tariffs and predicting churn rates.
+- Analyzing loan reliability and forecasting customer attrition in banks.
+- Estimating property values and identifying market trends.
+- Developing machine learning models for product recommendations and customer behavior analysis.
 
 ### My Skillset
 
@@ -20,7 +20,6 @@ I work with a variety of tools and technologies, including:
 - Programming: Python, SQL
 - Data Analysis: Pandas, NumPy, Matplotlib, SciPy
 - Machine Learning: Scikit-learn, LightGBM, PyTorch
-- Big Data: Spark
 
 ### What You'll Find Here
 
