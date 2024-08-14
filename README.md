@@ -1,3 +1,34 @@
+## 📝 About Me
+
+Hello, I'm Evgeny, a data enthusiast with a strong background in data analysis and machine learning.\
+My journey in data science began with a curiosity to uncover insights hidden within data, and it has evolved into a passion for solving complex problems across various industries.
+
+### What I Do
+
+I specialize in applying data-driven techniques to extract actionable insights and build predictive models that can inform business decisions. My experience spans multiple domains, including:
+
+- Telecommunications: Optimizing customer tariffs and predicting churn rates.
+- Finance: Analyzing loan reliability and forecasting customer attrition in banks.
+- Real Estate: Estimating property values and identifying market trends.
+- E-commerce: Developing machine learning models for product recommendations and customer behavior analysis.
+- Oil & Gas: Determining the most profitable regions for extraction.
+
+### My Skillset
+
+I work with a variety of tools and technologies, including:
+
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Matplotlib, SciPy
+- Machine Learning: Scikit-learn, LightGBM, PyTorch
+- Big Data: Spark
+
+### What You'll Find Here
+
+Below is a collection of my most notable projects. Each project showcases my ability to leverage data to solve real-world problems, improve processes, and drive business value. Feel free to explore and dive into the details!
+
+---
+
+
 | Название проекта                                                                                                                                                      | Спринт                  | Сфера деятельности                       | Направление деятельности       | Навыки и инструменты                                   | Задачи проекта                                                    | Описание проекта                                                                                                                                                                                                                                      | Ключевые слова                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------------------------------------|--------------------------------|-------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
 | [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](./big_cities_music)                                                     | Базовый Python           | Интернет-сервисы, Стриминговый сервис    | Data Analyst                     | Pandas, Python                                        | Сравнить поведение пользователей Москвы и Санкт-Петербурга         | Проверка данных и сравнение поведения пользователей двух столиц на основе данных Яндекс.Музыки.                                                                                                                                                     | обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка |
